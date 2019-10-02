@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        " name": "Pallab",
+        " employeeCode": "114576",
+        " voucherNo": "8792ef4",
+        " date": "08-02-2020",
+        " department": "Engineering",
+        "division": "digital-platform",
+        "expenseDate": "06-02-2020",
+        " expenseDetail": "Accomodation and food",
+        "amount": "7000"
+    },
+    {
+        "id": 2,
+        "name": "Pallabi",
+        "employeeCode": "114578",
+        "voucherNo": "8792eg6",
+        " date": "08-02-2020",
+        " department": "Engineering",
+        " division": "Product & Services",
+        "expenseDate": "06-02-2020",
+        " expenseDetail": "Accomodation and food",
+        "amount": "8000"
+    },
+    {
+        "id": 3,
+        "name": "Monalisa",
+        "employeeCode": "114579",
+        "voucherNo": "8792eg8",
+        " date": "08-02-2020",
+        " department": "HR",
+        " division": "others",
+        "expenseDate": "06-02-2020",
+        " expenseDetail": "food and accomodation",
+        "amount": "12000"
+    },
+    {
+        "id": 4,
+        "name": "Rituporna",
+        "employeeCode": "114580",
+        "voucherNo": "8792eh2",
+        " date": "08-02-2020",
+        " department": "Engineering",
+        " division": "Product & Services",
+        "expenseDate": "06-02-2020",
+        " expenseDetail": "food and accomodation",
+        "amount": "10000"
+    }
+]
